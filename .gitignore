@@ -1,0 +1,11 @@
+# Visual Studio project files.
+AppLock-Media-Unlocker.pyproj
+AppLock-Media-Unlocker.sln
+.vs
+
+# Output images and videos folders.
+Images
+Videos
+
+# Python cache.
+__pycache__
